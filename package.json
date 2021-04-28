@@ -1,0 +1,16 @@
+{
+  "name": "wk1-day-1-homework",
+  "version": "1.0.0",
+  "main": "server_task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Bui",
+  "license": "ISC",
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
